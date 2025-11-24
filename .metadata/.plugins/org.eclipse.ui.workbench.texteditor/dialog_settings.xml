@@ -4,6 +4,14 @@
 	<section name="java.lang.Class">
 		<item key="replaceBarOpen" value="false"/>
 		<list key="findhistory">
+			<item value="Member"/>
+			<item value="pass"/>
+			<item value="utf"/>
+			<item value="1"/>
 		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="280"/>
+		<item key="DIALOG_Y_ORIGIN" value="245"/>
 	</section>
 </section>
